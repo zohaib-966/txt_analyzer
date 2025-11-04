@@ -1,2 +1,2 @@
 # txt_analyzer
-Text content insights.
+A simple text analyzer built with Streamlit to count words, characters, and vowels interactively.
